@@ -52,7 +52,7 @@
 
 ![Malshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=malshikainsari&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=malshikainsari&theme=radical&hide_border=true&type=svg)](https://github.com/malshikainsari)
+![GitHub Streak](https://streak-stats.demolab.com/?user=malshikainsari&theme=radical&hide_border=true&type=svg)](https://github.com/malshikainsari)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malshikainsari&layout=compact&theme=radical&hide_border=true)
 
